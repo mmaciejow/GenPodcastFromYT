@@ -1,5 +1,9 @@
 #!/usr/bin/env python
 # encoding: utf-8
+# @author: Maciej Maciejowski
+# @www: myenv.net
+
+
 #from __future__ import unicode_literals
 
 from SimpleHTTPServer import SimpleHTTPRequestHandler
@@ -28,7 +32,7 @@ IMAGE="https://www.youtube.com/yts/img/favicon_144-vfliLAfaB.png"
 TITLE="Podcast YouTube"
 DESC="Downloaded items from YouTube"
 
-HOST="rpi.local"
+HOST="example.local"
 PORT=8888
 URL="http://"+HOST+":"+ str(PORT) +"/"
 
