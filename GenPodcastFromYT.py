@@ -140,7 +140,6 @@ start_server()
 	
 while True:
 
-	print (time.strftime("%Y-%m-%d %H:%M:%S", time.gmtime()) )
 	check_net()
 	dlAudio()
 	time.sleep(2)
