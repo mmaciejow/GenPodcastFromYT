@@ -1,8 +1,7 @@
 #!/usr/bin/env python
 # encoding: utf-8
 # @author: Maciej Maciejowski
-# @www: myenv.net
-
+# @www: https://myenv.net
 
 #from __future__ import unicode_literals
 
